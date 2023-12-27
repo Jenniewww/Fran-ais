@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"1711161eb1409d8d","x":-641,"y":-329,"width":250,"height":60,"type":"text","text":"Adjectif"},
+		{"id":"ac4b0c12d9964ed1","x":-639,"y":-76,"width":250,"height":60,"type":"text","text":"Adverbe"},
+		{"id":"39fd0285d18bbfd9","x":-296,"y":-76,"width":250,"height":60,"type":"text","text":"Bien"},
+		{"id":"093a0e6975df6bc8","x":-296,"y":-329,"width":250,"height":60,"type":"text","text":"Bon"},
+		{"id":"1b299c8c53e2eb53","x":60,"y":-335,"width":250,"height":60,"type":"text","text":"Mauvais"},
+		{"id":"9fd5d60b44c8bb5d","x":60,"y":-76,"width":250,"height":60,"type":"text","text":"Mal"},
+		{"id":"ea41661c7a72d9dc","x":390,"y":-329,"width":250,"height":60,"type":"text","text":"Beaucoup"},
+		{"id":"3c262356696b5931","x":720,"y":-329,"width":250,"height":60,"type":"text","text":"Petit"},
+		{"id":"8359436ba0def90b","x":-240,"y":150,"width":250,"height":60,"type":"text","text":"Bien"},
+		{"id":"1ea4053e90526d2f","x":53,"y":131,"width":250,"height":60,"type":"text","text":"Si"},
+		{"id":"f5db3a8e2eb3e3b1","x":46,"y":262,"width":250,"height":60,"type":"text","text":"Tant"},
+		{"id":"1f5b8070fae9fed4","x":65,"y":376,"width":250,"height":60,"type":"text","text":"Tellement"},
+		{"id":"6844b5318e03b383","x":53,"y":520,"width":250,"height":60,"type":"text","text":"Tel"},
+		{"id":"14b3d3901b996ad1","x":390,"y":150,"width":250,"height":60,"type":"text","text":"Beaucoup/Autant"},
+		{"id":"766d25590bf5fb92","x":702,"y":160,"width":250,"height":60,"type":"text","text":"Encore"},
+		{"id":"e85fcfdd285d6a77","x":-649,"y":181,"width":250,"height":60,"type":"text","text":"Modifier"}
+	],
+	"edges":[]
+}
